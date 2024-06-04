@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Iván</h1>
-<h3 align="center">Sysadmin y DBA.</h3>
+<h3 align="center">Sysadmin & DBA.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
