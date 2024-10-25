@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, Soy Iván</h1>
 <h3 align="center">Sysadmin & DBA 🚀 Explorando la tecnología y la automatización</h3>
 
-<p align="center">👨‍💻 Apasionado por <strong>automatizar</strong> lo repetitivo, 💽 optimizar bases de datos y 💡 aprender algo nuevo cada día. Cuando no estoy entre líneas de código, me encontrarás <strong>tocando el piano</strong> o imaginando mi próximo proyecto.</p>
+<p align="center">👨‍💻 Apasionado por <strong>automatizar</strong> lo repetitivo, 💽 optimizar bases de datos y 💡 aprender algo nuevo cada día.</p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
