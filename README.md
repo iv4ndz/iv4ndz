@@ -1,12 +1,14 @@
 <h1 align="center">Hola! 👋, Soy Iván</h1>
-<h3 align="center">Sysadmin & DBA.</h3>
+<h3 align="center">Sysadmin & DBA 🚀 Explorando la tecnología y la automatización</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">👨‍💻 Apasionado por <strong>automatizar</strong> lo repetitivo, 💽 optimizar bases de datos y 💡 aprender algo nuevo cada día. Cuando no estoy entre líneas de código, me encontrarás <strong>tocando el piano</strong> o imaginando mi próximo proyecto.</p>
+
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/@ivoxdava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ivoxdava" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
